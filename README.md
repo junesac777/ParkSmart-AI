@@ -1,4 +1,4 @@
-# NextGenerationBooking
+# NextGenerationReservation
 
 
 UI Code Setup Steps:
